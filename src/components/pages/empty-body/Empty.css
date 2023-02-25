@@ -1,0 +1,22 @@
+.empty-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    width: 100%;
+    color: #999;
+    font-size: 1.2rem;
+}
+
+.sync-btn{
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: #4C63AA;
+    color: #fff;
+    font-size: 1rem;
+    min-width: 120px;
+    cursor: pointer;
+}

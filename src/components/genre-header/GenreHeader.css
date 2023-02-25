@@ -1,0 +1,30 @@
+.genre-pop{
+    background-color: #F5F5F5;
+}
+
+.genre-pop-img-text{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-left: 5%;
+}
+
+.pop-img{
+    position: relative;
+    width: 130px;
+    height: 130px;
+}
+
+.genre-pop-img-text > a {
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 80px;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    background-color: #4C63AA;
+    color: #fff;
+    font-size: 1.35rem;
+    min-width: 125px;
+    min-height: 30px;
+}

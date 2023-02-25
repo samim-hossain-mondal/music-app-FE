@@ -1,0 +1,7 @@
+.genre-card-container{
+    display: flex;
+    max-width: 100%;
+    flex-wrap: wrap;
+    padding-top: 25px;
+    background-color: #F5F5F5;
+}

@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    font-weight: 150;
+    font-size: 1.2rem;
+    margin: 0;
+    padding: 10px;
+    color: #fff;
+    background-color: #38497E;
+}

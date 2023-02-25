@@ -1,0 +1,37 @@
+.card-right{
+    display: flex;
+    float: right;
+    padding: 10px;
+    flex-direction: column;
+}
+
+.heart-img{
+    position: relative;
+    display: flex;
+    max-width: 85%;
+    max-height: 85%;
+}
+
+.text-center-1{
+    display: flex;
+    position: absolute;
+    font-size: 0.8em;
+    padding-left: 14px;
+    padding-top: 7px;
+}
+
+.text-center-2{
+    display: flex;
+    position: absolute;
+    font-size: 0.8em;
+    padding-left: 11px;
+    padding-top: 7px;
+}
+
+.text-center-3{
+    display: flex;
+    position: absolute;
+    font-size: 0.8em;
+    padding-left: 8px;
+    padding-top: 7px;
+}

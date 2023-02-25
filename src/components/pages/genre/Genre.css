@@ -1,0 +1,40 @@
+.genre{
+    min-height: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #F5F5F5;
+}
+
+.genre-header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.genre-heading{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 5%;
+}
+
+.genre-heading > a{
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+.genre-icon-img-1{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 5%;
+}
+
+.genre-block{
+    margin-top: 45px;
+}
+
+.genre-block-1{
+    margin-bottom: 2%;
+}
